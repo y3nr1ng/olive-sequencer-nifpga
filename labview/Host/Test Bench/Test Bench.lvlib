@@ -11,8 +11,11 @@
 		<Item Name="Close FPGA Reference.vi" Type="VI" URL="../Close FPGA Reference.vi"/>
 		<Item Name="Open FPGA Reference.vi" Type="VI" URL="../Open FPGA Reference.vi"/>
 		<Item Name="Read DI States.vi" Type="VI" URL="../Read DI States.vi"/>
-		<Item Name="Update AO Registers.vi" Type="VI" URL="../Update AO Registers.vi"/>
+		<Item Name="Set Waveform Generation Status.vi" Type="VI" URL="../Set Waveform Generation Status.vi"/>
 		<Item Name="Update DIO Registers.vi" Type="VI" URL="../Update DIO Registers.vi"/>
+		<Item Name="Update Idle Voltage.vi" Type="VI" URL="../Update Idle Voltage.vi"/>
+		<Item Name="Update Waveform Increment.vi" Type="VI" URL="../Update Waveform Increment.vi"/>
+		<Item Name="Update Waveform Table.vi" Type="VI" URL="../Update Waveform Table.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder"/>
 	<Item Name="States" Type="Folder">
