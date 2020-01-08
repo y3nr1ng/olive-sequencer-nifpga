@@ -11,17 +11,25 @@
 		<Item Name="Close FPGA Reference.vi" Type="VI" URL="../Close FPGA Reference.vi"/>
 		<Item Name="Open FPGA Reference.vi" Type="VI" URL="../Open FPGA Reference.vi"/>
 		<Item Name="Read DI States.vi" Type="VI" URL="../Read DI States.vi"/>
+		<Item Name="Select Target AO Channel.vi" Type="VI" URL="../Select Target AO Channel.vi"/>
 		<Item Name="Set Waveform Generation Status.vi" Type="VI" URL="../Set Waveform Generation Status.vi"/>
 		<Item Name="Update DIO Registers.vi" Type="VI" URL="../Update DIO Registers.vi"/>
 		<Item Name="Update Idle Voltage.vi" Type="VI" URL="../Update Idle Voltage.vi"/>
 		<Item Name="Update Waveform Increment.vi" Type="VI" URL="../Update Waveform Increment.vi"/>
 		<Item Name="Update Waveform Table.vi" Type="VI" URL="../Update Waveform Table.vi"/>
+		<Item Name="Update Waveform Update Rate.vi" Type="VI" URL="../Update Waveform Update Rate.vi"/>
 	</Item>
-	<Item Name="Controls" Type="Folder"/>
+	<Item Name="Controls" Type="Folder">
+		<Item Name="AO Channels.ctl" Type="VI" URL="../AO Channels.ctl"/>
+		<Item Name="Scan Engine Variables.ctl" Type="VI" URL="../Scan Engine Variables.ctl"/>
+	</Item>
+	<Item Name="Helper Functions" Type="Folder">
+		<Item Name="Enqueue Array of Events.vi" Type="VI" URL="../Enqueue Array of Events.vi"/>
+		<Item Name="Select Channel.vi" Type="VI" URL="../Select Channel.vi"/>
+	</Item>
 	<Item Name="States" Type="Folder">
 		<Item Name="Action States.ctl" Type="VI" URL="../Action States.ctl"/>
 		<Item Name="Scan Engine States.ctl" Type="VI" URL="../Scan Engine States.ctl"/>
-		<Item Name="Scan Engine Variables.ctl" Type="VI" URL="../Scan Engine Variables.ctl"/>
 	</Item>
 	<Item Name="Test Bench.vi" Type="VI" URL="../../Test Bench.vi"/>
 </Library>
